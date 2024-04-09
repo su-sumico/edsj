@@ -5,7 +5,7 @@ page 2
 ![image](https://user-images.githubusercontent.com/130117169/236114846-f7ff5675-56b1-46a0-9858-74d07a432fe6.png)
 ---
 page 3
-![image](https://github.com/SU-sumico/edsj/assets/130117169/dcea533b-b2e9-406c-9fd4-8a68fef85c14)
+![image](https://github.com/su-sumico/edsj/assets/161304268/d3fcc8f4-3215-4cd2-b89d-4d5658117718)
 ---
 page 4
 ![image](https://user-images.githubusercontent.com/130117169/236114946-48919dca-e78c-4031-a93f-a54d7c8b76f0.png)
