@@ -20,7 +20,7 @@ page 7
 ![image](https://user-images.githubusercontent.com/130117169/235330463-712519b3-ceeb-4e07-bb6f-f4a3c03f637c.png)
 ---
 page 8
-![image](https://user-images.githubusercontent.com/130117169/235330469-b1ef90b3-2f89-44a2-afff-8f51dd3bd9a3.png)
+![image](https://github.com/su-sumico/edsj/assets/161304268/c7cb6c1b-0480-4a3e-9030-ea00b490c74e)
 ---
 page 9
 ![image](https://user-images.githubusercontent.com/130117169/235330475-938002f6-8fe8-4518-b489-7fd5605ca792.png)
